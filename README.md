@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+CreativeBakery Landing
+
+
+Technology used:
+1)HTML5 (Hypertext Markup Language): The standard markup language for creating web pages and web applications. It provides the structure of the content.
+
+2)CSS3 (Cascading Style Sheets): Used for styling the visual presentation of web pages written in HTML. It enhances the appearance and layout of elements on the page.
+
+3)Sass (Syntactically Awesome Style Sheets): A preprocessor scripting language that is interpreted or compiled into CSS. Sass provides features such as variables, nesting, and mixins, making CSS more maintainable and efficient.
